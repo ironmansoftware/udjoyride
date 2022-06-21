@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react-joyride": "^2.5.0",
     "universal-dashboard": "^1.0.1"
   },
   "devDependencies": {
